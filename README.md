@@ -1,4 +1,7 @@
-# Perceptual variability and executive function
+# Perceptual variability and executive function (archival copy)
+
+This is a Ma lab copy of the original GitHub repository and code base, kept here for archival purposes. Please go to https://github.com/lianaan/Perc_Var for possible updates.
+
  The code in this repository accompanies the following publication: 
  
  [Mihali, A, Young, AG, Adler, L, Halassa, MM, Ma, WJ. A low-level perceptual correlate of behavioral and clinical deficits in ADHD. 2018, Computational Psychiatry](https://www.mitpressjournals.org/doi/abs/10.1162/cpsy_a_00018)
